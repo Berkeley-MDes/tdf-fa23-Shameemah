@@ -18,7 +18,7 @@ The computer systems in the Jacobs Hall Makerspace were reset recently, so the l
 
 ### 💡 Through this exploration I learned: ###
 - how Rhino and grasshopper work together to create parametric and computational models
-- some common issues that may arise with exporting a Rhino drawing to Adoble Illustrator, and how to resolve them
+- some common issues that may arise with exporting a Rhino drawing to Adobe Illustrator, and how to resolve them
 - how to prepare a file for laser cutting
 - how to use the laser cutter
 - the factors that influence the success of a laser cut
