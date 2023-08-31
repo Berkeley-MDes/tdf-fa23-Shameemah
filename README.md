@@ -8,7 +8,7 @@ Following this, I measured my phone length, width, and thickness, and went ahead
 <img width="500" alt="Photo of me measuring the thickness of my iPhone 13 pro" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_08_31/phonethickness.JPG">
 <img width="500" alt="Screenshot of Grasshopper with modified phone metrics" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_08_31/adjustingmetricsrhino.png">
 
-Initially, I experienced some difficulty with exporting the Rhino file to Adobe Illustrator; the exported file was blank. However, after some troubleshooting and some help from TJ, I learned that this issue was due to origin of the drawings being offset way off the page. After modifying the 'Move Off Mode' value in Grasshopper, I was able to export my file successfully and prepare my file for laser cutting! 
+Initially, I experienced some difficulty with exporting the Rhino file to Adobe Illustrator; the exported file was blank. However, after some troubleshooting and some help from TJ, I learned that this issue was due to the origin of the drawings being offset way off the page. After modifying the 'Move Off Mode' value in Grasshopper, I was able to export my file successfully and prepare my file for laser cutting! 
 
 <img width="500" alt="Adobe illustrator file with phone stand 2d drawings" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_08_31/illustratorfile.png">
 
