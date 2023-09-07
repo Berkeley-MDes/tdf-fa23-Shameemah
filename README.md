@@ -7,7 +7,7 @@ This week, my focus was on understanding the basics of Grasshopper and how it in
 
 https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/assets/16790809/75e7b610-a621-4369-88da-99bf07929ce7
 
-So far, I have found this course incredibly beneficial. Though I am still in the beginner level of the course, I now have a better understanding of some basic Grasshopper components, the relationship between Grasshopper and Rhino, and how to make very simple paramteric designs using various inputs. 
+So far, I have found this course incredibly beneficial. Though I am still in the beginner level of the course, I now have a better understanding of some basic Grasshopper components, the relationship between Grasshopper and Rhino, and how to make very simple parametric designs using various inputs. 
 
 ### 💡 Through this exploration I learned: ###
 - various Grasshopper components such as points, lines, curves, vectors, panels, etc., and how they work
