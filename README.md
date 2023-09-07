@@ -14,7 +14,7 @@ So far, I have found this course incredibly beneficial. Though I am still in the
 - how to transform geometries using move, rotation, mirror, etc.
 - how to link an existing Rhino model to a Grasshopper component
 - how to make a model in Grasshopper available in Rhino using 'bake'
-- how to make a model parametric using inputs such as the number slider 
+- how to make a model parametric using inputs such as the number slider, panel, md slider, etc. 
 
 ## Speculations ##
 
