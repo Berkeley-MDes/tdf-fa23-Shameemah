@@ -1,4 +1,4 @@
-# 08/31/2023 to 09/07/2023: Project 1 - Parametric Slow Feeder
+# 09/07/2023 to 09/14/2023: Project 1 - Parametric Slow Feeder
 ## Reflections ##
 
 For project 1, I chose to challenge myself to create a parametric slow feeder from scratch. A slow feeder is a bowl with ridges that make it harder for pets to eat quickly. I have a 4lb toy poodle who eats incredibly fast, which has led to health issues in the past. Due to her small size, it's very difficult to find a slow feeder that is small but also intense enough to slow her feeding down drastically. This project gave me the perfect opportunity to try and tackle this issue myself.  
