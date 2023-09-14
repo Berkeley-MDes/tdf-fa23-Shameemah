@@ -1,4 +1,29 @@
-# 08/31/2023 to 09/07/2023: Project 1 Pre-Project Exploratio - Self-Guided Study
+# 08/31/2023 to 09/07/2023: Project 1 - Parametric Slow Feeder
+## Reflections ##
+
+For project 1, I chose to challenge myself to create a parametric slow feeder from scratch. A slow feeder is a bowl with ridges that make it harder for pets to eat quickly. I have a 4lb toy poodle who eats incredibly fast, which has led to health issues in the past. Due to her small size, it's very difficult to find a slow feeder that is small but also intense enough to slow her feeding down drastically. This project gave me the perfect opportunity to try and tackle this issue myself.  
+
+The video below provides a 3 minute summary on the problem I chose to tackle, solution developed, and potential advancements for the future.
+
+
+[![3 minute YouTube video explaining my parametric slow feeder project](https://img.youtube.com/vi/Hcv1sVSC-Ck/0.jpg)](https://youtu.be/Hcv1sVSC-Ck)
+
+
+This was a very fun project for me that allowed me to get a good grasp of grasshopper and rhino, but also develop the system thinking skills that go into parametric and computational design.
+
+### 💡 Through this exploration I learned: ###
+- how to create a parametric model using Grasshoper and Rhino
+- how to create a quick video using Adobe Premiere Rush
+- system thinking 
+
+## Speculations ##
+
+As an advancement to this project, I am interested in understanding how Machine Learning can make this solution smarter. For example, is it possible to train a model to be able to predict the perfect bowl size and slow feeder intensity for a pet based on their breed and weight?
+
+I also intend on iterating on this project by providing users with the option to select different patterns for the ridges in the bowl. Lastly, I intend on 3D printing the bowl and testing it on my dog to see if it effectively slows down her eating. 
+
+
+# 08/31/2023 to 09/07/2023: Project 1 Pre-Project Exploration - Self-Guided Study
 ## Reflections ##
 
 This week, my focus was on understanding the basics of Grasshopper and how it interacts with Rhino. Through last week's exploration, it was clear to me that I needed to understand Grasshopper at a foundational level before I could deep dive into the worked example provided. In order to do this, I registered for a [Udemy course that covers Parametric Design with Grasshopper from beginner to advanced levels](https://www.udemy.com/course/parametric-design-with-grasshopper-full-beginner-to-advanced/). 
