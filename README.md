@@ -25,12 +25,17 @@ The video below provides a 3 minute summary on the problem I chose to tackle, so
 
 [![3 minute YouTube video explaining my parametric slow feeder project](https://img.youtube.com/vi/Hcv1sVSC-Ck/0.jpg)](https://youtu.be/Hcv1sVSC-Ck)
 
+The photos below are the final 3D printed model.
+
+<img alt="Photo of 3D printed slow feeder from a perspective view" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_14/parametricfeeder_perspective.JPG">
+<img alt="Photo of 3D printed slow feeder from the top view" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_14/parametricfeeder_topview.JPG">
 
 This was a very fun project for me that allowed me to get a good grasp of grasshopper and rhino, but also develop the system thinking skills that go into parametric and computational design.
 
 ### 💡 Through this exploration I learned: ###
 - how to create a parametric model using Grasshoper and Rhino
 - how to create a quick video using Adobe Premiere Rush
+- how to 3D print on the Ultimaker 3D printer
 - system thinking 
 
 ## Speculations ##
