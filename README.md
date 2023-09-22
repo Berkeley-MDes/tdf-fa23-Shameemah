@@ -1,7 +1,7 @@
 # 09/14/2023 to 09/21/2023: Photon 2 Setup
 ## Reflections #
 
-This week, I wrapped up project 1 and we're kicking off electronics with the Photon 2! :D We followed a tutorial provided by Professor Sudhu,which explained how to connect the Photon 2 to a Wi-Fi network. 
+This week, I wrapped up project 1 and we're kicking off electronics with the Photon 2! :D We followed a tutorial provided by Professor Sudhu,which explained how to connect the Photon 2 to a Wi-Fi network (MAC address in screenshot below covered for security purposes).
 
 <img alt="Screenshot of me Particle Web IDE printing MAC address" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_21/particle_mac.png">
 <img alt="Photo of Photon 2 connected" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_21/photon2.JPG">
