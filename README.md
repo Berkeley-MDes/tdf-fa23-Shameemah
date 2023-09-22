@@ -13,7 +13,7 @@ The process was fairly straightforward, and I didn't bump into any hiccups along
 
 ## Speculations ##
 
-Hoinestly not quite sure what to think yet because this is a whole new world for me. I'll hve more to say once I get a better hang of what this technology is capable of.
+Honestly not quite sure what to think yet because this is a whole new world for me. I'll hve more to say once I get a better hang of what this technology is capable of.
 
 # 09/07/2023 to 09/14/2023: Project 1 - Parametric Slow Feeder
 ## Reflections ##
