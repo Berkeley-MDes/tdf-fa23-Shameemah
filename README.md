@@ -1,3 +1,20 @@
+# 09/14/2023 to 09/21/2023: Photon 2 Setup
+## Reflections #
+
+This week, I wrapped up project 1 and we're kicking off electronics with the Photon 2! :D We followed a tutorial provided by Professor Sudhu,which explained how to connect the Photon 2 to a Wi-Fi network. 
+
+<img alt="Screenshot of me Particle Web IDE printing MAC address" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_21/particle_mac.png">
+<img alt="Photo of Photon 2 connected" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_21/photon2.JPG">
+
+The process was fairly straightforward, and I didn't bump into any hiccups along the way. However, I feel like I'm lacking a basic understanding of circuits, so I'll be spending some time this weekend trying to understand that a little better. 
+
+### 💡 Through this exploration I learned: ###
+- how to connect a Photon 2 microcontroller to a Wi-Fi network 
+
+## Speculations ##
+
+Hoinestly not quite sure what to think yet because this is a whole new world for me. I'll hve more to say once I get a better hang of what this technology is capable of.
+
 # 09/07/2023 to 09/14/2023: Project 1 - Parametric Slow Feeder
 ## Reflections ##
 
