@@ -16,9 +16,14 @@ In class on Monday, we also spent some time coming up with ideas for Project 2. 
 
 <img alt="A photo of team 'Silva Spectrum' coming up with ideas for Project 2" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_28/team_ideation.jpg">
 
-Following this, we had the opportunity to vote for our top 3 interests across the board. I'm excited to get started on Project 2 and to see what amazing things we can build with these technologies! 
+Following this, we had the opportunity to vote for our top 3 interests across the board. My top 3 picks were:
+- Developing an interactive social game with tangible elements for alzheimer and demential patients
+- Mindful meditations: an interactive flower guide for stress relief and color therapy tracking
+- Enhancing interpersonal connections: exploring subtle communication tools for friendships and relationships
 
-Finally, we had a guest lecture by Adrian Freed which was incredibly insightful. He introduced us to the world of electronic textiles. This was honestly a mindblowing lecture because I had absolutely no idea that such a thing existed. It opened up a whole new world of opportunities in my mind. 
+I am super excited about this project and cannot wait to see what our cohort comes up with!
+
+Finally, we had a guest lecture by Adrian Freed which was incredibly insightful. He introduced us to the world of electronic textiles. This was honestly a mindblowing lecture because I had absolutely no idea that such a thing existed. I spent some time reading on Eeonyx, which is a company that has led the development of conductive textiles, powders, and inks over many years. This lecture opened up a whole new world of possibilties for me, and I'm hoping to spend some more time deepdiving into this area. 
 
 ### 💡 Through this exploration I learned: ###
 - the basics of circuits 
