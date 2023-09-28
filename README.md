@@ -1,3 +1,34 @@
+# 09/21/2023 to 09/28/2023: Photon 2 and Edge AI Kit Experimentation
+## Reflections #
+I spent some time this week experimenting with the Photon 2 microcontroller and the edge AI kit. 
+
+In the tutorial provided by Professor Sudhu, I connected the Photon 2 microcontroller to the breadboard, included an external LED, a resistor, and connections between the microcontroller and the LED. I then went ahead to run the sample code provided and ta-da! The results of this experiment can be seen in the Gif below. 
+
+<img alt="Screenshot of the code run for the blinking light experiment" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_28/blink_code.png">
+<img alt="GIF showing alternating blinking lights on Photon 2 and external LED" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_28/tmpMovie.gif">
+
+One small thing that confused me, and my classmate Divya, was using 'D17' for the input instead of 'SCK' or 'S2,' which is how it is labeled on the Photon 2 microcontroller. We did a little experiment to see if the code will still run successfully if we replaced 'D17' with 'SCK' or 'S2', and it did! (A little FYI for anyone else who was thrown off by that). 
+
+In class on Monday, we also spent some time coming up with ideas for Project 2. Our group was tasked with coming up with ideas around community. At the end of the ideation, the 3 main ideas we came up with were:
+- Collaborative song making using a shared instrument
+- A device that aids the homeless community in finding warming/cooling centers
+- A device that aids in building stronger connections in relationships
+
+<img alt="A photo of team 'Silva Spectrum' coming up with ideas for Project 2" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_09_28/team_ideation.jpg">
+
+Following this, we had the opportunity to vote for our top 3 interests across the board. I'm excited to get started on Project 2 and to see what amazing things we can build with these technologies! 
+
+Finally, we had a guest lecture by Adrian Freed which was incredibly insightful. He introduced us to the world of electronic textiles. This was honestly a mindblowing lecture because I had absolutely no idea that such a thing existed. It opened up a whole new world of opportunities in my mind. 
+
+### 💡 Through this exploration I learned: ###
+- the basics of circuits 
+- how to create a basic connection using a Photon 2 microcontroller, a bread board, and an external LED
+- potential problems that this technology can solve
+- e-textiles and their capabilities
+
+## Speculations ##
+It is becoming incredibly clear to me that we are capable of building incredibly powerful machines by combining AI and IoT. I did some research and discovered that there is a term for this intersection of AI and IoT, called artificial intelligence of things (AIoT). I will be doing some more digging into this area in the next week, in hopes to discover some ways that we may be able to incorporate this into project 2.
+
 # 09/14/2023 to 09/21/2023: Photon 2 Setup
 ## Reflections #
 
