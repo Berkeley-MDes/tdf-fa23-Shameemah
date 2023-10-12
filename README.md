@@ -1,3 +1,37 @@
+# 10/05/2023 to 10/12/2023: Pet Wearables - Pulse Sensor Experimentation
+## Reflections #
+We kicked off our group project for Project 2 last week. Our group is working on creating a pet wearable that tracks a pet's pulse, calculates Heart Rate Variability (HRV), and alerts the owner if there's a discrepancy in their normal heart rate, which could be an indicator of underlying illness. 
+
+This week, my focus was on getting the pulse sensor to work, and being able to read some output from it. The pulse sensor we purchased is the Pulse Sensor Amped seen [here](https://www.adafruit.com/product/1093).
+
+<img alt="A photo of the Pulse Sensor Amped sensor packaging" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_12/pulsesensor.JPG">
+
+The circuit used for the pulse sensor is incredibly simple. I connected my Photon 2 to a breadboard and made the following connections: 
+
+- Black wire from the pulse sensor to the Photon ground pin
+- Red wire from pulse sensor to the Photon 3.3v pin
+- Purple wire from pulse sensor to the Photon A0 pin
+
+<img alt="Photo of connections described above" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_12/breadboardpulsesensor.JPG">
+
+And voila! A green light on the Pulse Sensor indicated that it was connected successfully. 
+
+<img alt="Photo of Pulse Sensor succcessfully connected" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_12/pulsesensorconnected.JPG">
+
+Following the succcessful connection, I wrote some code to blink the built-in D7 LED on the Photon 2 to the rhythm of my pulse. Due to the sensitivity of the sensor, I had to play around with the threshold value in order to get the best reading for my pulse. I managed to get this working successfully which was a very exciting moment for me. :)
+
+<img alt="Screenshot of code written to blink LED light according to pulse" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_12/VScodepulsesensor.png">
+
+For nexts teps, my goal is to modify this code to calculate and output the HRV using the pulse signals from the sensor. After this, my team and I will work to connect this code to an output device such as a screen display and vibration device connected to another Photon 2. 
+
+### 💡 Through this exploration I learned: ###
+- how to connect a pulse sensor to the Photon 2
+- how to read output from the pulse sensor
+- how to debug code in VS code
+
+## Speculations ##
+I think a good ML exercise for this project will be to train a model to be able to predict a pet's overall health status based on their HRV. I will be considering this as part of my explorations in the next few days. 
+
 # 09/21/2023 to 09/28/2023: Photon 2 and Edge AI Kit Experimentation
 ## Reflections #
 I spent some time this week experimenting with the Photon 2 microcontroller and the edge AI kit. 
