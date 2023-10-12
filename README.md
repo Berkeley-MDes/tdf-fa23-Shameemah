@@ -32,6 +32,31 @@ For nexts teps, my goal is to modify this code to calculate and output the HRV u
 ## Speculations ##
 I think a good ML exercise for this project will be to train a model to be able to predict a pet's overall health status based on their HRV. I will be considering this as part of my explorations in the next few days. 
 
+# 09/28/2023 to 10/05/2023: Project 2 - Teamwork! 
+## Reflections #
+We kicked off project 2 this week! I joined the team that is focused on creating pet wearables. Our main focus as a team this week was coordinating how we plan to tackle group work and communication, defining our project specification, and dividing up the work for individual explorations. 
+
+The main tool we are using for collaboration is Figma and Slack. I created a Figma page for us to document our ideas and coordinate on group submissions. 
+
+<img alt="Figma playground for team pet wearables" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_05/figma.png">
+<img alt="Figma documentation on pet wearables resources" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_05/figma1.jpg">
+<img alt="Figma documentation on HRV resources" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_05/figma2.jpg">
+<img alt="Team slack conversation" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_05/slack.png">
+
+We divided up the explorations so that each team member has the chance to work contribute individually to the success of the team. The responsibilities for each team member for the next week are:
+- Motion sensor exploration - Fareha
+- Pulse sensor exploration - Shameemah
+- Vibration output - Cynthia
+- Display output - Reina
+
+The goal is that next week, we should have a better idea of what elements are working and how to combine them to create the complete device.
+
+### 💡 Through this exploration I learned: ###
+- how to collaborate using tools like Figma and Slack 
+
+## Speculations ##
+No speculations this week. More to come next week! :) 
+
 # 09/21/2023 to 09/28/2023: Photon 2 and Edge AI Kit Experimentation
 ## Reflections #
 I spent some time this week experimenting with the Photon 2 microcontroller and the edge AI kit. 
