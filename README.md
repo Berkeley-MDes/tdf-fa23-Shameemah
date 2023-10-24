@@ -1,3 +1,20 @@
+# 10/12/2023 to 10/19/2023: Pet Health Monitor Final Submission
+## Reflections #
+This week, our team focused on completing project 2! My main focus for this week was using the input received from the Pulse Sensor to calculate the BPM, and to publish that BPM to Particle Device Cloud in order to be outputed on the devices connected to the 2nd photon. I successfully accomplished this, and the video below is a quick overview of what my group and I accomplished for this project:
+
+[![3 minute YouTube video explainining our Pet Health Monitor for Project 2](https://img.youtube.com/vi/z3OieXuTjrM/0.jpg)](https://www.youtube.com/watch?v=z3OieXuTjrM)
+
+### 💡 Through this exploration I learned: ###
+- how to read the signals from a pulse sensor
+- how to use the data received from an input sesnor to derive further information through calculations 
+- how to get 2 Photons to commmunicate with each other
+- how to publish data to the Particle Device Cloud
+- how to incorporate ML into a Particle Photon project using Edge Impulse
+- how to work virtually with a team using collaborative tools such as Slack and Figma 
+
+## Speculations ##
+Speculations and future explorations are covered in detail in the video attached. I look forward to exploring this technology more deeply!
+
 # 10/05/2023 to 10/12/2023: Pet Wearables - Pulse Sensor Experimentation
 ## Reflections #
 We kicked off our group project for Project 2 last week. Our group is working on creating a pet wearable that tracks a pet's pulse, calculates Heart Rate Variability (HRV), and alerts the owner if there's a discrepancy in their normal heart rate, which could be an indicator of underlying illness. 
@@ -22,7 +39,7 @@ Following the succcessful connection, I wrote some code to blink the built-in D7
 
 <img alt="Screenshot of code written to blink LED light according to pulse" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_12/VScodepulsesensor.png">
 
-For nexts teps, my goal is to modify this code to calculate and output the HRV using the pulse signals from the sensor. After this, my team and I will work to connect this code to an output device such as a screen display and vibration device connected to another Photon 2. 
+For nexts steps, my goal is to modify this code to calculate and output the HRV using the pulse signals from the sensor. After this, my team and I will work to connect this code to an output device such as a screen display and vibration device connected to another Photon 2. 
 
 ### 💡 Through this exploration I learned: ###
 - how to connect a pulse sensor to the Photon 2
