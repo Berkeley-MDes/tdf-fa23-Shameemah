@@ -1,3 +1,23 @@
+# 10/19/2023 to 10/26/2023: Wrapping up Project 2 and kicking off Project 3!
+## Reflections #
+This week was spent wrapping up project 2 and kicking off project 3! 
+
+For project 2, we received a lot of useful feedback form our classmates that I incorporated into my personal project report. You can view the completed report [here](https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_26/Project2_Shameemah.pdf).
+
+Moving on to project 3! Unfortunately, I missed class on Monday due to being sick, which means I missed the introduction to this project. However, the professors were very accommodating and the session was recorded, so I plan to spend a lot of time in the next few days getting up to speed and starting the project. To kickstart this process, I started off by setting up my ZeroWidth account and watching the sample video provided on prototyping a better food delivery ordering experience with large language models.
+
+<img alt="ZeroWidth account setup" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_26/zerowidth_workbench.png">
+<img alt="Video on prototyping a better food delivery ordering experience with large language models" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_10_26/zerowidth_video.png">
+
+So far, my understanding of ZeroWidth workbench is that it goes beyond algorithms by providing a platform that allows users to strategically apply AI to different use cases, and to create user-centric solutions. The video on prototyping a better food delivery ordering experience with large language models showcased this incredibly well, and sparked a lot of thought on what other possible use cases I could apply this technology to. I am very excited to get this project going! 
+
+### 💡 Through this exploration I learned: ###
+- what ZeroWidth is and the toolkit the platform provides for designing AI
+- how to get started with ZeroWidth
+
+## Speculations ##
+A lot of the time, when we hear about LLMs, the conversation centers around the algorithms and how they are trained. And though that's incredibly important, it's sometimes difficult to understand how we as designers can make use of these emerging technologies in our design practices. The demo by Zerowidth showcases this incredibly well! The idea that we can provide instructions, modify inputs and outputs, and adapt these LLMs to a variety of use cases is such a powerful tool. I'm particularly interested in figuring out how can I incorporate this tool into my design process and how it can beneficial in creating quick prototypes.
+
 # 10/12/2023 to 10/19/2023: Pet Health Monitor Final Submission
 ## Reflections #
 This week, our team focused on completing project 2! My main focus for this week was using the input received from the Pulse Sensor to calculate the BPM, and to publish that BPM to Particle Device Cloud in order to be outputed on the devices connected to the 2nd photon. I successfully accomplished this, and the video below is a quick overview of what my group and I accomplished for this project:
