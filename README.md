@@ -1,3 +1,22 @@
+# 10/26/2023 to 11/02/2023: Project 3 - Mini-Shameemah 👩🏾
+## Reflections #
+My focus this week was on completing project 3! This was an incredibly fun project. After a ton of experimentation and fine-tuning, I finally developed a digital twin that I was proud of, using OpenAI's chat-gpt 4 and the ZeroWidth platform.
+
+This YouTube video provides the details on the process that I went through, and the final results of the project:
+
+[![3 minute YouTube video explainining my Digital Twin project](https://img.youtube.com/vi/yt8-r5sPkYI/0.jpg)](https://www.youtube.com/watch?v=yt8-r5sPkYI)
+
+
+### 💡 Through this exploration I learned: ###
+- how to fine-tune an LLM for a specific use case
+- the importance of Retrieval Augmented Generation, context length, and tokens
+- how to iterate on knowledge sets to improve intelligence
+- how to evaluate an LLM
+- how to fine-tune prompts to receive accurate results
+
+## Speculations ##
+I have no doubt that LLMs are going to significantly change the kinds of products and experiences we develop, by giving us the oppotunity to design more antropomorphic experiences. Additionally, LLMs such as chat-gpt now have the ability to spit out lines of code for entire functionalities. These technologies are going to drastically change the way we develop technological products. Given this, it is important for us to recognize that these LLMs are only as good as the knowledge sets they are trained on and the fine-tuning process. It is important for us to think about the ethical implications they may have in the areas of misrepresentation and misinformation. 
+
 # 10/19/2023 to 10/26/2023: Wrapping up Project 2 and kicking off Project 3!
 ## Reflections #
 This week was spent wrapping up project 2 and kicking off project 3! 
