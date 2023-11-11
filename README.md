@@ -1,3 +1,22 @@
+# 11/02/2023 to 11/10/2023: Final project brainstorming 
+## Reflections #
+This week was spent wrapping up the report for Project 3, and kicking off project 4! The full report for project 3 can be found [here](https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/Project%203/Project3_Shameemah.pdf).
+
+For project 4, Divya and I decided to partner up given that we have similar interests and similar areas that we'd like to explore further; specifically, computational design and electronics. We started brainstorming different ideas and narrowed them down to 2 main options:
+- an interactive dancing oobleck <- this will make use of a gestural or motion sensor. The sensor will detect human movement, which will trigger the speaker to start playing music that makes the oobleck dance. 
+- a wearable device that promotes connection between 2 people <- we are not quite sure of this one yet. What we know so far is that we'd like to explore biosensors on one wearble that triggers some kind of output on another wearable worn by a second person, thus, fostering connection. 
+
+<img alt="Notes from brainstorming session with Divya" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_11_02/2BEA55A2-C570-477C-96CC-A3705DBCEA73-2341-000000EB7532922D.jpg">
+
+### 💡 Through this exploration I learned: ###
+- about a series of designers who have served as inspiration for what we're trying to accomplish for project 4
+    biomedia designer Kristin Neidlinger, and her studio Sensoree that does some incredible work!
+    Anouk Wipprecht who works in FashionTech
+    Meredith Woolnough who does some really fascinating embroidery work
+
+## Speculations ##
+More to come in the next week!
+
 # 10/26/2023 to 11/02/2023: Project 3 - Mini-Shameemah 👩🏾
 ## Reflections #
 My focus this week was on completing project 3! This was an incredibly fun project. After a ton of experimentation and fine-tuning, I finally developed a digital twin that I was proud of, using OpenAI's chat-gpt 4 and the ZeroWidth platform.
