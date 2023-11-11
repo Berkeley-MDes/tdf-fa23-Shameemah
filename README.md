@@ -9,10 +9,10 @@ For project 4, Divya and I decided to partner up given that we have similar inte
 <img alt="Notes from brainstorming session with Divya" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_11_02/2BEA55A2-C570-477C-96CC-A3705DBCEA73-2341-000000EB7532922D.jpg">
 
 ### 💡 Through this exploration I learned: ###
-- about a series of designers who have served as inspiration for what we're trying to accomplish for project 4
-    biomedia designer Kristin Neidlinger, and her studio Sensoree that does some incredible work!
-    Anouk Wipprecht who works in FashionTech
-    Meredith Woolnough who does some really fascinating embroidery work
+- about a series of designers who have served as inspiration for what we're trying to accomplish for project 4:
+    - biomedia designer Kristin Neidlinger, and her studio Sensoree that does some incredible work!
+    - Anouk Wipprecht who works in FashionTech
+    - Meredith Woolnough who does some really fascinating embroidery work
 
 ## Speculations ##
 More to come in the next week!
