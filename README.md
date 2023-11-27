@@ -1,3 +1,19 @@
+# 11/16/2023 to 11/23/2023: Testing the air pump!
+## Reflections #
+This week, our focus was on getting the air pump to work for our wearable! After some research, we found a few projects that made use of the DC 6V Air Pump Motor, so we decided to use this for our project as well. 
+
+The circuit we tested to make this work was fairly basic. We connected the red wire to the 3.3v pin, and the black wire to ground on the photon, and it worked! We felt some air blowing through the pump. 
+
+<img alt="A photo of the air pump connected to the photon" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_11_17/pump_test.jpg">
+
+Since the air pump requires 6v, our plan is to use an external battery source for this. We also intent to solder the pieces together and include a transistor to make sure that we are regulating voltage flow. But so far, we're off to a great starts. For next steps, we hope to complete the computational design for the wearable and to 3d print it so that we can start testing it out with the pump.  
+
+### 💡 Through this exploration I learned: ###
+- connecting a 6V Air Pump Motor to an electronic circuit and getting it to work!
+
+## Speculations ##
+So far, no further speculations. We are constantly exploring and hoping to come up with some incredible ideas along the way!
+
 # 11/09/2023 to 11/16/2023: Final project ideation
 ## Reflections #
 This week, Divya and I spent our time ideating on our final project. We settled on creating a wearable mask that inflates and deflates based on some kind of human interaction. In this project, the 2 technological areas we will be exploring are computational design and electronics. The image below shows out current idea. 
