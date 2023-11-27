@@ -1,4 +1,4 @@
-# 11/10/2023 to 11/17/2023: Final project ideation
+# 11/09/2023 to 11/16/2023: Final project ideation
 ## Reflections #
 This week, Divya and I spent our time ideating on our final project. We settled on creating a wearable mask that inflates and deflates based on some kind of human interaction. In this project, the 2 technological areas we will be exploring are computational design and electronics. The image below shows out current idea. 
 
@@ -14,7 +14,7 @@ We walked through our idea with Sudhu and received some very useful feedback on 
 ## Speculations ##
 We are curious to see if there's any way we can incorporate AI into our project. For example, can we have the wearable respond to people's moods based on some input entered into a large language model? Given the limited time we have, we are not sure if we can include this in our project, but we're definitely exploring the option!
 
-# 11/02/2023 to 11/10/2023: Final project brainstorming 
+# 11/02/2023 to 11/09/2023: Final project brainstorming 
 ## Reflections #
 This week was spent wrapping up the report for Project 3, and kicking off project 4! The full report for project 3 can be found [here](https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/Project%203/Project3_Shameemah.pdf).
 
