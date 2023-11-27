@@ -1,3 +1,19 @@
+# 11/10/2023 to 11/17/2023: Final project ideation
+## Reflections #
+This week, Divya and I spent our time ideating on our final project. We settled on creating a wearable mask that inflates and deflates based on some kind of human interaction. In this project, the 2 technological areas we will be exploring are computational design and electronics. The image below shows out current idea. 
+
+<img alt="A diagram showing how our wearable mask connects to the electronics" src="https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/weekly-reports/2023_11_10/wearable_ideation_final.jpg">
+
+We walked through our idea with Sudhu and received some very useful feedback on the minor updates we will need to make to the electronics to get it to work. He mentioned that we will not need a solenoid valve, and that we will need to include a transistor in order to regulate voltage flow. For next steps, we will be running some tests with the pump to see if we can get it to work. 
+
+### 💡 Through this exploration I learned: ###
+- how electronics can be connected to a wearable to create interestng effects
+- the use of a transistor in an electronic circuit
+- how to think through wearable ideas and the various connections required to make them work
+
+## Speculations ##
+We are curious to see if there's any way we can incorporate AI into our project. For example, can we have the wearable respond to people's moods based on some input entered into a large language model? Given the limited time we have, we are not sure if we can include this in our project, but we're definitely exploring the option!
+
 # 11/02/2023 to 11/10/2023: Final project brainstorming 
 ## Reflections #
 This week was spent wrapping up the report for Project 3, and kicking off project 4! The full report for project 3 can be found [here](https://github.com/Berkeley-MDes/tdf-fa23-Shameemah/blob/main/Project%203/Project3_Shameemah.pdf).
@@ -10,9 +26,9 @@ For project 4, Divya and I decided to partner up given that we have similar inte
 
 ### 💡 Through this exploration I learned: ###
 - about a series of designers who have served as inspiration for what we're trying to accomplish for project 4:
-    - biomedia designer Kristin Neidlinger, and her studio Sensoree that does some incredible work!
-    - Anouk Wipprecht who works in FashionTech
-    - Meredith Woolnough who does some really fascinating embroidery work
+- biomedia designer Kristin Neidlinger, and her studio Sensoree that does some incredible work!
+- Anouk Wipprecht who works in FashionTech
+- Meredith Woolnough who does some really fascinating embroidery work
 
 ## Speculations ##
 More to come in the next week!
